@@ -1,5 +1,7 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=KongJihun&fontSize=90)
+  <div align=center>
+  <img src="https://user-images.githubusercontent.com/39688690/118999060-e9aba180-b9c4-11eb-8a97-71fa4c338080.gif" width="50%"/></p>
+  </div>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
